@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="11" total="14" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3588" started-at="2021-05-28T07:31:06Z" finished-at="2021-05-28T07:31:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3588" started-at="2021-05-28T07:31:06Z" finished-at="2021-05-28T07:31:10Z">
+      <class name="IBM.LP_12.Testing_basics">
+        <test-method status="PASS" signature="dataSourceExample(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IBM.LP_12.Testing_basics@6d4b1c02]" name="dataSourceExample" duration-ms="3432" started-at="2021-05-28T07:31:06Z" data-provider="Sample1" finished-at="2021-05-28T07:31:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[001C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PranjalC]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RanjanC]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSourceExample -->
+        <test-method status="PASS" signature="dataSourceExample(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:IBM.LP_12.Testing_basics@6d4b1c02]" name="dataSourceExample" duration-ms="84" started-at="2021-05-28T07:31:10Z" data-provider="Sample1" finished-at="2021-05-28T07:31:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[001D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PranjalD]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RanjanD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSourceExample -->
+        <test-method status="PASS" signature="firstTestCase()[pri:0, instance:IBM.LP_12.Testing_basics@6d4b1c02]" name="firstTestCase" duration-ms="1" started-at="2021-05-28T07:31:10Z" finished-at="2021-05-28T07:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestCase -->
+      </class> <!-- IBM.LP_12.Testing_basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
